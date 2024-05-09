@@ -1,0 +1,3 @@
+Viết hàm strend(s,t), trả về giá trị 1 
+nếu xâu t xuất hiện ở cuối xâu s, và 
+0 nếu không phải. 
